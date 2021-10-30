@@ -6,8 +6,11 @@
   <li>
     <a href='https://blog.naver.com/qkrdnjsrl0628/222523352857'>9단계 유형 정리(수학2)</a>
   </li>
+  <li>
+    <a href='https://blog.naver.com/qkrdnjsrl0628/222553630691'>10단계 유형 정리(재귀)</a>
+  </li>
     <li>
-    <a href='https://blog.naver.com/qkrdnjsrl0628/222534807422'>10단계 유형 정리(스택)</a>
+    <a href='https://blog.naver.com/qkrdnjsrl0628/222534807422'>18단계 유형 정리(스택)</a>
   </li>
   <li>
     <a href='https://blog.naver.com/qkrdnjsrl0628/222532062186'>11단계 유형 정리(브루트 포스)</a>
