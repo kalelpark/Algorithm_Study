@@ -16,6 +16,9 @@
   <li>
     <a href='https://blog.naver.com/qkrdnjsrl0628/222532062186'>11단계 유형 정리(브루트 포스)</a>
   </li>
+  <li>
+    <a href='https://blog.naver.com/qkrdnjsrl0628/222569704333'>15단계 유형 정리(동적 계획법(DP))</a>
+  </li>
 </ul>
   
 <hr>
