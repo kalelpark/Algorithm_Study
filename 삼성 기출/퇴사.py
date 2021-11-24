@@ -37,4 +37,5 @@ for i in range(1,d+1):
 
 print(max(dp))
 
+// https://jrc-park.tistory.com/119 더 깔끔한 코드 참고하세욤
 
