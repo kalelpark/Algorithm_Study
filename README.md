@@ -25,3 +25,6 @@
   <li>
     <a href='https://blog.naver.com/qkrdnjsrl0628/222590049269'>SQL SELECT 해설</a>
   </li>
+  <li>
+    <a href='https://blog.naver.com/qkrdnjsrl0628/222597778553'>SQL MIN,MAX,SUM 해설</a>
+  </li>
