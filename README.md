@@ -18,6 +18,9 @@
   <li>
     <a href='https://blog.naver.com/qkrdnjsrl0628/222569704333'>15단계 유형 정리(동적 계획법(DP))</a>
   </li>
+  <li>
+    <a href='https://blog.naver.com/qkrdnjsrl0628/222611994893'>22단계 유형 정리(우선순위 큐)</a>
+  </li>
 </ul>
 <hr>
 <h2>SQL 고득점 Kit</h2>
