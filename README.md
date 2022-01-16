@@ -4,22 +4,25 @@
 <h2>백준 Algorithm</h2>
 <ul>
   <li>
-    <a href='https://blog.naver.com/qkrdnjsrl0628/222523352857'>9단계 유형 정리(수학2)</a>
+    <a href='https://blog.naver.com/qkrdnjsrl0628/222523352857'>9단계 유형 정리 (수학2)</a>
   </li>
   <li>
-    <a href='https://blog.naver.com/qkrdnjsrl0628/222553630691'>10단계 유형 정리(재귀)</a>
+    <a href='https://blog.naver.com/qkrdnjsrl0628/222553630691'>10단계 유형 정리 (재귀)</a>
   </li>
     <li>
-    <a href='https://blog.naver.com/qkrdnjsrl0628/222534807422'>18단계 유형 정리(스택)</a>
+    <a href='https://blog.naver.com/qkrdnjsrl0628/222532062186'>11단계 유형 정리 (브루트 포스)</a>
   </li>
   <li>
-    <a href='https://blog.naver.com/qkrdnjsrl0628/222532062186'>11단계 유형 정리(브루트 포스)</a>
+    <a href='https://blog.naver.com/qkrdnjsrl0628/222623037693'>14단계 유형 정리 (백트래킹)</a>
   </li>
   <li>
-    <a href='https://blog.naver.com/qkrdnjsrl0628/222569704333'>15단계 유형 정리(동적 계획법(DP))</a>
+    <a href='https://blog.naver.com/qkrdnjsrl0628/222569704333'>15단계 유형 정리 (동적 계획법(DP))</a>
   </li>
+   <li>
+    <a href='https://blog.naver.com/qkrdnjsrl0628/222534807422'>18단계 유형 정리 (스택)</a>
+  </li>  
   <li>
-    <a href='https://blog.naver.com/qkrdnjsrl0628/222611994893'>22단계 유형 정리(우선순위 큐)</a>
+    <a href='https://blog.naver.com/qkrdnjsrl0628/222611994893'>22단계 유형 정리 (우선순위 큐)</a>
   </li>
 </ul>
 <hr>
