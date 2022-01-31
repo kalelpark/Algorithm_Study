@@ -24,6 +24,9 @@
   <li>
     <a href='https://blog.naver.com/qkrdnjsrl0628/222611994893'>22단계 유형 정리 (우선순위 큐)</a>
   </li>
+  <li>
+    <a href='https://blog.naver.com/qkrdnjsrl0628/222631715418'>24단계 유형 정리 (DFS & BFS)</a>
+  </li>  
 </ul>
 <hr>
 <h2>SQL 고득점 Kit</h2>
